@@ -1,0 +1,6 @@
+tvdatafeed
+pandas
+numpy
+scikit-learn
+matplotlib
+tensorflow
